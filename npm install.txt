@@ -1,0 +1,42 @@
+npm install class-transformer
+npm install class-validator
+
+npm i @nestjs/graphql graphql-tools graphql apollo-server-express
+
+npm install --save @nestjs/typeorm typeorm pg
+
+npm i --save @nestjs/config
+npm i cross-env
+
+npm i joi
+
+npm i bcrypt
+
+npm i @types/bcrypt --dev-only
+
+npm i jsonwebtoken
+
+npm i @types/jsonwebtoken --only-dev
+
+npm i uuid
+
+npm i got
+
+npm install --save form-data
+
+npm i graphql-subscriptions
+
+----------------------------frontend
+npm install @types/react
+
+npm i tailwindcss
+
+npm i postcss 
+
+npm i autoprefixer
+
+npx tailwindcss init
+
+npm install @apollo/client graphql
+
+npm intsall react-router-dom
